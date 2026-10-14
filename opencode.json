@@ -1,0 +1,22 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "skills": {
+    "paths": [
+      "/home/hatch/workspace/skills"
+    ]
+  },
+  "permission": {
+    "external_directory": "deny",
+    "question": "deny",
+    "edit": {
+      "*": "deny",
+      "/home/hatch/workspace/game-assets/gemini-pocket-league/**": "allow"
+    },
+    "read": {
+      "*": "allow",
+      "*.env": "deny",
+      "*.env.*": "deny",
+      "*.env.example": "allow"
+    }
+  }
+}
