@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.oc-home/
+opencode-run.log
+*.zip
+.DS_Store
