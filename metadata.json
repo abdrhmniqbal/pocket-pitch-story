@@ -1,0 +1,6 @@
+{
+  "name": "Pocket League Match Day - Pixel Soccer Sim",
+  "description": "Retro pixel art football match day simulation inspired by classic sports management games, featuring isometric physics, animated chibi players, live radar, and match commentary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
